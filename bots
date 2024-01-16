@@ -1,0 +1,30 @@
+<title>Milcon development</title>
+ 
+      
+
+ <!-- Favicons -->
+
+  <link href="favicons/img-favicon.png" rel="icon">
+  <link href="favicons/img-apple-touch-icon.png" rel="apple-touch-icon">
+     <link href="box.css" rel="stylesheet" type="text/css" />
+<div class="container">
+
+<body>
+<html>
+
+    <div class="box-container">
+<h1 class="heading">
+
+        <div class="box">
+            <img src="https://milcon.is-a.dev/milconlogo.gif" alt="">
+            <h3>Milcon</h3>
+            <p>Our main Bot</p>
+            <a href="https://discord.com/api/oauth2/authorize?client_id=1160253196980195339&permissions=8&scope=bot%20applications.commands" class="btn">INVITE NOW</a>
+        </div>
+</div>
+
+
+
+
+</body>
+</html>
